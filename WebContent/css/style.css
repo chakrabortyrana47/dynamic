@@ -1,0 +1,25 @@
+h1,h2,h3,h4,h5,h6{ font-family:"Franklin Gothic Medium", "Times New Roman", Tahoma, sans-serif;}
+a:link{ text-decoration:none;}
+header#header{font-size:48px; padding-top:20px;padding-bottom:20px;}
+header#header a{color:black;}
+header#header span{color:#8c6635;}
+
+nav{background-color:#8c6635;height:auto;}
+nav ul li{display:inline-block;margin-right:50px;padding:15px 0;}
+nav ul li a{color:white;}
+
+#slider_wrapper {height: 420px;width: 100%;padding:30px 0;}
+
+section#our_works{background-color:#fafafa;border:6px solid #f0f0f0;padding-top:40px;padding-bottom:40px;margin-top:90px;}
+section#our_works .one_parag{text-align:center;}
+section#our_works img{margin:0 0 10px 0;}
+h2{font-size:24px;color:#515151;border-bottom:1px solid #e1e1e1;padding-bottom:45px;margin-bottom:50px;}
+h2 span{border-bottom:1px solid #8c6635;padding-right:30px;padding-bottom:47px;}
+p{font-size:14px;color:#515151;}
+section#our_team{margin-top:90px;margin-bottom:40px;}
+section#our_team .one_per{float:left;margin-right:71px;width:269px;}
+section#our_team .one_per:last-child{margin-right:0 !important;}
+
+section#our_team .name{color:black; font-weight:bold;font-size:16px;display:block;}
+section#our_team .position{color:#cacaca;font-size:12px;}
+footer{ padding:30px 0;}
